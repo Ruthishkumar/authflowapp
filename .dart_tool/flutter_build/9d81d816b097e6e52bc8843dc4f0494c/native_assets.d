@@ -1,0 +1,1 @@
+ C:\\Users\\intel\\StudioProjects\\work\\auth_flow_app\\.dart_tool\\flutter_build\\9d81d816b097e6e52bc8843dc4f0494c\\native_assets.yaml: 
